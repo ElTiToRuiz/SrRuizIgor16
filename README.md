@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Igor Ruiz</h1>
-<h3 align="center">A passionate fullstack developer from Spain</h3>
+<h3 align="center">A passionate fullstack developer from Spain, constantly pushing the boundaries of web development.</h3>
+
+- 🔭 I’m currently working on **m**
+
+- 🌱 I’m currently learning **Django, JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrRuizIgor16?tab=repositories](https://github.com/SrRuizIgor16?tab=repositories)
 
-- 💬 Ask me about **python, machine learnign**
+- 💬 Ask me about **Python, Machine Learning, Java**
 
-- 📫 How to reach me **ruizigor16@gmail.com or from insta @rruizgorr**
+- 📫 How to reach me **ruizigor16@gmail.com or @rruizgorr**
+
+- ⚡ Fun fact **I once wrote a script to control my home's lights and accidentally made them sync to the beat of my favorite song. Now, every house party feels like a disco!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rruizigorr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rruizigorr" height="30" width="40" /></a>
+<a href="https://discord.gg/eltitoruiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="eltitoruiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
