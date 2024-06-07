@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Igor Ruiz</h1>
 <h3 align="center">A passionate fullstack developer from Spain, constantly pushing the boundaries of web development.</h3>
 
-- 🔭 I’m currently working on **m**
+- 🔭 I’m currently working on **TASK Project with JS**
 
 - 🌱 I’m currently learning **Django, JS**
 
